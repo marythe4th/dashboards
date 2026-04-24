@@ -10,4 +10,4 @@
 
 **Стек:** Yandex DataLens, SQL.
 
-**Ссылка на дашборд:** [https://datalens.yandex/mu43ueulig7w6]
+**Ссылка на дашборд:** <https://datalens.yandex/mu43ueulig7w6>
